@@ -1,0 +1,7 @@
+id=Android-OnCharge-AutoBoot
+name=Android OnCharge AutoBoot
+version=v1.0
+versionCode=1
+author=anasfanani
+description=AutoBoot when charger connected.
+updateJson=https://raw.githubusercontent.com/anasfanani/Android-OnCharge-AutoBoot/master/update.json

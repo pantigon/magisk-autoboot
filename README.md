@@ -1,3 +1,6 @@
+# WARNING
+# THIS MODULE IS NOT WORKING, I'M STILL LEARNING
+
 ##  [English](README.md) | [Bahasa Indonesia](README-id.md)
 
 ### AutoBoot Patch for Android Devices
